@@ -1,0 +1,251 @@
+{
+  "siteMetadata": {
+    "siteName": "AllegianceNRG",
+    "tagline": "Strategic Energy Investments",
+    "description": "An independent trade house specializing in LNG and oil derivatives"
+  },
+  "hero": {
+    "title": "Strategic Energy Investments",
+    "subtitle": "Delivering value through expertise, agility, and a customer-centric approach to global energy markets",
+    "backgroundImage": "/images/pexels-snowfly09-33284879.jpg",
+    "cta": "Learn More"
+  },
+  "heroInfoBoxes": [
+    {
+      "heading": "Oil Fields and Refineries",
+      "content": "Investments in oil fields and refineries are crucial for a strong energy supply and efficient processing of fossil fuels."
+    },
+    {
+      "heading": "LNG Regasification Terminals",
+      "content": "LNG regasification terminals enable the transportation and distribution of liquefied natural gas, meeting diverse market demands efficiently."
+    },
+    {
+      "heading": "Value-Driven Infrastructure",
+      "content": "Robust energy infrastructure ensures operational reliability, expands market access, and creates long-term value for stakeholders."
+    }
+  ],
+  "whoWeAre": {
+    "title": "Who We Are",
+    "image": "/images/who-we-are.jpg",
+    "paragraphs": [
+      "AllegianceNRG is an independent trade house specializing in LNG and oil derivatives, delivering value through expertise, agility, and a customer-centric approach.",
+      "We have built our reputation on the foundation of trust, transparency, and excellence in a competitive landscape. Our team combines deep industry knowledge with strong trading experience to serve as a reliable global partner for strategic energy investments.",
+      "We are more than advisors - we are your trusted partner in navigating the complexities of energy markets with precision and care."
+    ],
+    "cta": "Learn More About Us - Meet The Team"
+  },
+  "missionVision": {
+    "tagline": "Aligning Your Wealth with What Matters Most",
+    "backgroundColor": "#F5F6F8",
+    "mission": {
+      "title": "Our Mission",
+      "image": "/images/mission.jpg",
+      "description": "At AllegianceNRG, our unwavering mission is to empower our clients by delivering exceptional, customized portfolio management solutions that optimize risk-adjusted returns, preserve capital, and foster long-term generational wealth. We aim to provide seamless strategies that align with your unique goals, ensuring a comprehensive approach to wealth management that creates long-term value."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "image": "/images/2026-04-12_23-13-09.jpg.jpeg",
+      "description": "Our vision is to be the trusted partner for High-Net-Worth individuals and entrepreneurs by offering long-term, independent, and conflict-free financial services. Operating through a boutique consultancy model, we prioritize personalized solutions, free from the constraints and biases of large institutional advisory firms."
+    },
+    "strategicFocus": {
+      "title": "VISION: Strategic Focus & Innovation",
+      "image": "/images/discharge port2.jpg",
+      "items": [
+        {
+          "title": "Strategic Focus",
+          "description": "Success is anchored in a clear focus as an independent trade house in LNG and oil derivatives."
+        },
+        {
+          "title": "Market Understanding",
+          "description": "Deep insight into market dynamics supports stronger decisions and resilient execution."
+        },
+        {
+          "title": "Optimize & Manage Risk",
+          "description": "Optimized supply chains and disciplined risk management strengthen performance in volatility."
+        },
+        {
+          "title": "Digital Innovation",
+          "description": "Embracing digital tools positions AllegianceNRG for sustainable growth and differentiation"
+        }
+      ]
+    },
+    "cta": "See How we Align Interest"
+  },
+  "guidingPrinciples": {
+    "title": "Guiding Principles",
+    "image": "/images/pexels-pixabay-327041.jpg",
+    "intro": "At AllegianceNRG, our philosophy is built on a foundation of trust, discretion, and excellence. We believe that every client is unique, and we are committed to crafting bespoke solutions that reflect your individual needs, ambitions, and financial complexities.",
+    "principlesTitle": "Our Core Principles",
+    "principles": [
+      {
+        "title": "Client Uniqueness",
+        "description": "We understand that no two clients are the same. Every strategy we develop is tailored to align with your specific circumstances and goals."
+      },
+      {
+        "title": "Confidentiality",
+        "description": "Your privacy is our top priority. We handle your financial matters with the utmost discretion and professionalism."
+      },
+      {
+        "title": "Panoramic Perspective",
+        "description": "Our approach integrates insights from all aspects of your financial landscape, delivering a comprehensive and cohesive wealth care strategy."
+      },
+      {
+        "title": "Long-Term Relationships",
+        "description": "We are dedicated to building enduring partnerships, ensuring that our services evolve alongside your changing needs and aspirations."
+      }
+    ],
+    "closing": "AllegianceNRG strives to be more than an Oil and Gas advisor - we are your trusted partner in navigating the complexities of Strategic Investments with precision and care."
+  },
+  "strategicInvestments": {
+    "title": "Strategic LNG & OIL INVESTMENTS",
+    "backgroundImage": "/images/lng infra build.jpg",
+    "strategies": [
+      {
+        "title": "Investment Strategies for Efficiency",
+        "description": "Robust investment strategies are essential to ensure supply chain efficiency and reliability for LNG and oil derivatives."
+      },
+      {
+        "title": "Strategic Partnerships and Infrastructure",
+        "description": "Strategic partnerships and infrastructure development drive adaptability and market success in the competitive energy sector."
+      },
+      {
+        "title": "Supply Route Optimization and Technology",
+        "description": "Optimizing supply routes and adopting technology enables companies to meet global demand and achieve sustainable growth."
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "title": "Why Choose AllegianceNRG?",
+    "backgroundColor": "#184061",
+    "items": [
+      {
+        "number": "01",
+        "title": "Client-First Philosophy",
+        "description": "Your success is our priority. Every strategy and decision is tailored to meet your unique financial objectives."
+      },
+      {
+        "number": "02",
+        "title": "Personalized Services",
+        "description": "We take pride in delivering solutions that are as distinctive as our clients, ensuring a truly customized experience."
+      },
+      {
+        "number": "03",
+        "title": "Expertise and Experience",
+        "description": "Our team comprises seasoned professionals with a deep understanding and expertise in energy markets, strategic investments, and financial structuring."
+      }
+    ]
+  },
+  "howWeDiffer": {
+    "title": "How We Differ from Larger Firms",
+    "backgroundImage": "/images/ESG%20Compliance%20Excellence.jpg",
+    "description": "Unlike large advisory firms bound by quotas and institutional priorities, AllegianceNRG operates with agility, innovation, and a personal touch. Our boutique model allows us to build long-term relationships, deliver highly customized solutions, and adapt swiftly to the evolving needs of our clients.",
+    "cta": "Discover The AllegianceNRG Difference"
+  },
+  "contact": {
+    "title": "Lets Connect !..",
+    "backgroundImage": "/images/heroimg3.jpg",
+    "form": {
+      "fields": [
+        {
+          "name": "fullName",
+          "type": "text",
+          "placeholder": "First and Last Name*",
+          "required": true
+        },
+        {
+          "name": "phone",
+          "type": "tel",
+          "placeholder": "Phone*",
+          "required": true
+        },
+        {
+          "name": "email",
+          "type": "email",
+          "placeholder": "E-mail",
+          "required": false
+        },
+        {
+          "name": "message",
+          "type": "textarea",
+          "placeholder": "Message",
+          "required": false
+        }
+      ],
+      "privacyText": "I have read and confirm the",
+      "privacyLink": "privacy policy",
+      "submitButton": "Send Message"
+    }
+  },
+  "team": {
+    "title": "Meet the Team",
+    "members": [
+      {
+        "id": 1,
+        "name": "Thomas Kuhn",
+        "title": "CEO",
+        "image": "/images/person.png",
+        "bio": "Thomas has more than 40 years of professional experience in asset management and in the global financial markets. He holds a Diploma in Social and Economic sciences from the Vienna University of Economics and Business, where he wrote his Master's thesis on Financial Futures Hedging. Thomas has worked as a financial consultant and client relationship manager for leading global financial institutions like Merrill Lynch Pierce Fenner & Smith, Shearson Lehman Brothers and Deutsche Bank Investment Management. He was an awarded member of the International Directors Council at Shearson Lehman Brothers. Thomas has acquired his experience at financial centres in Frankfurt, Monaco and Switzerland. In 2003 he founded SwissDirekt AG in Switzerland."
+      },
+      {
+        "id": 2,
+        "name": "Mats Hartling",
+        "title": "Managing Partner",
+        "image": "/images/person.png",
+        "bio": "Mats brings extensive expertise in strategic management and investment portfolio development. With over 30 years of experience in the energy sector, he has led numerous successful investment initiatives across global markets. Mats specializes in LNG infrastructure, offshore energy projects, and strategic partnerships. His leadership has been instrumental in establishing AllegianceNRG's presence in key energy hubs worldwide. He is recognized for his visionary approach to sustainable energy investments."
+      },
+      {
+        "id": 3,
+        "name": "Sarah Mitchell",
+        "title": "Head of Investments",
+        "image": "/images/person.png",
+        "bio": "Sarah is an accomplished investment professional with 25 years of experience in energy markets and commodities trading. She has successfully managed multi-billion dollar investment portfolios and established key relationships with major energy producers and consumers worldwide. Sarah's expertise spans oil & gas derivatives, LNG markets, and emerging energy infrastructure projects. She is known for her analytical skills and strategic vision in identifying high-value investment opportunities."
+      },
+      {
+        "id": 4,
+        "name": "James Richardson",
+        "title": "Senior Advisor",
+        "image": "/images/person.png",
+        "bio": "James is a seasoned energy market strategist with over 35 years of industry expertise. He has advised major energy companies on market entry strategies, risk management, and portfolio optimization. His deep understanding of global energy dynamics and regulatory frameworks has been invaluable in shaping AllegianceNRG's strategic direction. James continues to be an active advisor on complex energy transactions and geopolitical risk assessments."
+      }
+    ]
+  },
+  "footer": {
+    "companyDescription": "AllegianceNRG is an independent trade house specializing in LNG and oil derivatives, delivering value through expertise, agility, and a customer-centric approach. We operate with precision and care for our clients' evolving needs.",
+    "contactInfo": {
+      "email": "Info@allegiancenrg.com",
+      "phone": "+1  732-917-0402"
+    },
+    "sections": {
+      "about": [
+        { "label": "Meet the Team", "id": "team", "path": "/team" },
+        { "label": "Our Mission", "id": "mission", "path": "/" },
+        { "label": "Principles", "id": "principles", "path": "/" },
+        { "label": "Home", "id": "home", "path": "/" }
+      ],
+      "services": [
+        { "label": "Strategic Investments", "id": "strategic-investments", "path": "/" },
+        { "label": "Energy Markets", "id": "about", "path": "/" },
+        { "label": "LNG Terminals", "id": "strategic-investments", "path": "/" },
+        { "label": "Why Choose Us", "id": "why-choose-detailed", "path": "/" }
+      ]
+    },
+    "partners": [
+      { "name": "HSBC", "src": "/images/HSBC_logo.png" },
+      { "name": "NG Gas", "src": "/images/ng_gas_logo.png" },
+      { "name": "Wärtsilä", "src": "/images/wartsila_logo.png" }
+    ],
+    "socialIcons": [
+      { "name": "Facebook", "url": "#", "icon": "facebook" },
+      { "name": "X", "url": "#", "icon": "x" },
+      { "name": "LinkedIn", "url": "#", "icon": "linkedin" },
+      { "name": "Instagram", "url": "#", "icon": "instagram" }
+    ],
+    "copyright": "Copyright © 2026 AllegianceNRG. All Rights Reserved",
+    "links": [
+      { "label": "Terms & Conditions", "href": "#" },
+      { "label": "Privacy Policy", "href": "#" },
+      { "label": "Cookie Policy", "href": "#" },
+      { "label": "Disclaimer", "href": "#" }
+    ]
+  }
+}

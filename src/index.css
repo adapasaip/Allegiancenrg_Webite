@@ -1,0 +1,141 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  /* Mobile-first: smaller base font size for mobile */
+  font-size: 14px;
+}
+
+@media (min-width: 640px) {
+  html {
+    font-size: 15px;
+  }
+}
+
+@media (min-width: 1024px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+body {
+  background-color: #faf9f7;
+  color: #2d2d2d;
+  font-family: '"Inria Serif", Arial, sans-serif';
+  line-height: 1.8;
+  /* Mobile-first: responsive body text */
+  font-size: clamp(14px, 3.5vw, 20px);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: '"Inria Serif", serif';
+  font-weight: 400;
+  letter-spacing: -0.5px;
+}
+
+/* H1: Mobile-first with better clamp scaling */
+h1 {
+  font-size: clamp(1.75rem, 5vw, 4.5rem);
+  line-height: 1.2;
+  margin-bottom: clamp(1rem, 3vw, 1.5rem);
+}
+
+/* H2: Better mobile sizing */
+h2 {
+  font-size: clamp(1.4rem, 4.5vw, 3.5rem);
+  line-height: 1.2;
+  margin-bottom: clamp(0.8rem, 2.5vw, 1.2rem);
+}
+
+/* H3: Better mobile sizing */
+h3 {
+  font-size: clamp(1.1rem, 3.5vw, 2.4rem);
+  line-height: 1.3;
+  margin-bottom: clamp(0.75rem, 2vw, 1rem);
+}
+
+p, span, a {
+  font-family: '"Inria Serif", Arial, sans-serif';
+}
+
+a {
+  transition: all 0.3s ease;
+}
+
+button {
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.container {
+  max-width: 1280px;
+  margin: 0 auto;
+  /* Mobile-first padding */
+  padding: 0 clamp(1rem, 4vw, 2rem);
+}
+
+@layer components {
+  .btn-primary {
+    @apply px-4 md:px-8 py-2 md:py-3 bg-gray-900 text-white rounded-sm font-medium transition-all text-sm md:text-base;
+  }
+
+  .btn-primary:hover {
+    @apply bg-gray-800;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  }
+
+  .btn-secondary {
+    @apply px-4 md:px-8 py-2 md:py-3 border-2 border-gray-900 text-gray-900 rounded-sm font-medium hover:bg-gray-900 hover:text-white transition-all text-sm md:text-base;
+  }
+
+  .btn-secondary:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+  }
+
+  .section-container {
+    @apply py-12 md:py-16 lg:py-20;
+  }
+
+  .section-title {
+    @apply text-3xl md:text-4xl font-serif font-bold text-gray-900 mb-4 md:mb-6 lg:mb-8;
+  }
+
+  .section-subtitle {
+    @apply text-base md:text-lg text-gray-700 max-w-3xl leading-relaxed;
+  }
+}
+
+/* Smooth scrolling animations */
+.fade-in {
+  opacity: 0;
+  animation: fadeInUp 0.8s ease-out forwards;
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Hover effects */
+.card-hover {
+  transition: all 0.3s ease;
+}
+
+.card-hover:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.06);
+}
